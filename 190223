@@ -1,0 +1,167 @@
+<div class="container text-center">
+  <div style="margin-top:0;margin-bottom:0; padding: 0px 18px;">
+    <div class="hr2">
+    </div>
+  </div>
+</div>
+<section class="home-usps brick brick-alternate">
+  <div class="container text-center">
+    <div class="brick-container-title " style="margin-bottom: 36px;">How it Works</div>
+  </div>
+  <div class="container text-center">
+      <div class="row usps" style="margin-top: 0px;">
+        <div class="half-col right-col">
+        <img src="/assets/themes/896/images/homes_mockup.png" style="display: block;">
+          
+        </div>
+        <div class="half-col left-col">
+          <div class="panel panel-primary left">
+            <h3 class="how-it-works">Browse</h3>
+              <p>With two dozen locations and counting, Zencity offers more places to stay than any hotel brand in downtown Chicago. Search homes on the map or filter by neighborhood to find the place for you.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row usps">  
+        <div class="half-col left-col">
+        <img src="/assets/themes/896/images/contact_us_mockup.png" style="display: block;">
+         
+        </div>
+        <div class="half-col right-col">
+          <div class="panel panel-primary right">
+            <h3 class="how-it-works">Connect</h3>
+              <p>We’ve designed Zencity to save you time and hassle. Narrow your search, message us directly, and confirm details through our website.</p>
+          </div>
+        </div>
+      </div>
+      <div class="row usps" style="margin-bottom: 0px;">
+        <div class="half-col right-col">
+        <img src="/assets/themes/896/images/book_now_mockup.png" style="display: block;">
+        
+        </div>
+        <div class="half-col left-col">
+          <div class="panel panel-primary left" style="margin-bottom: 0px;">    
+            <h3 class="how-it-works">Book</h3>
+              <p>Finalize your reservation using our secure online booking process and make the most of your accommodations. We’ll make sure your trip, job relocation, or local experience is memorable.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="container text-center">
+  <div style="margin-top:0;margin-bottom:0; padding: 0px 18px;">
+    <div class="hr2">
+    </div>
+  </div>
+</div>
+
+<section class="home-usps brick brick-alternate">
+  <div class="container text-center">
+    <div class="brick-container-title">What's Included?
+    </div>
+    <div style="margin-bottom: 12px;">
+      <div class="included-description"><span>Walk-up to high-rise, vacation to work trip, here's what you will find in every Zencity home:</span>
+      </div>    
+    <div class="row">
+      <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="included-container">
+          <div class="included">
+            
+              <div class="included-icon"><svg class="included-icon" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false" style="display:block;fill:currentColor"><path d="m23.55 4h-3.65l-1.38-3.68a.5.5 0 0 0 -.94 0l-1.38 3.68h-3.65a.5.5 0 0 0 -.29.91l3.15 2.25-1.81 3.62a.5.5 0 0 0 .67.67l3.78-1.89 3.78 1.89a.5.5 0 0 0 .67-.67l-1.81-3.62 3.15-2.25a.49.49 0 0 0 .21-.4v-.01a.5.5 0 0 0 -.5-.49zm-3.79 2.59a.5.5 0 0 0 -.16.63l1.33 2.66-2.66-1.33a.5.5 0 0 0 -.45 0l-2.66 1.33 1.33-2.66a.5.5 0 0 0 -.16-.63l-2.23-1.59h2.44a.5.5 0 0 0 .47-.32l1.03-2.75 1.03 2.75a.5.5 0 0 0 .47.32h2.44zm3.57 10.46c-3.89 1.95-9.18.86-13.44-2.93-3.78-3.36-4.65-9.29-2.87-13.43a.5.5 0 0 0 -.72-.62c-1.02.64-1.64 1.12-2.59 2.07-2.19 2.16-3.4 5-3.65 7.93v2.24c.25 2.95 1.46 5.83 3.65 8.03 4.82 4.79 13 4.7 18.19.02 1.09-1.09 1.56-1.67 2.1-2.63a.5.5 0 0 0 -.66-.69zm-2.13 2.59c-4.78 4.32-12.36 4.4-16.79 0-4.53-4.56-4.55-12.29 0-16.79.45-.45.81-.78 1.18-1.08-1.19 4.35-.06 9.81 3.63 13.1 4.01 3.57 8.94 4.9 12.99 3.69-.27.32-.58.65-1.01 1.09z" fill-rule="evenodd"></path></svg>
+              </div>
+            
+            
+            <div class="included-title"><span>24-hour check-in</span>
+            </div>
+  
+              <div class="included-description"><span>Midday or midnight, you can enter the home at any time</span>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="included-container">
+          <div class="included">
+            <svg class="included-icon" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false" style="display:block;fill:currentColor"><path d="m12 15a3 3 0 1 0 0 6 3 3 0 0 0 0-6zm0 5a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm5.92-5.78a.5.5 0 1 1 -.84.55c-1.19-1.81-3.07-2.77-5.08-2.77s-3.89.96-5.08 2.78a.5.5 0 0 1 -.84-.55c1.38-2.1 3.58-3.23 5.92-3.23s4.54 1.13 5.92 3.23zm2.98-3.03a.5.5 0 1 1 -.79.61c-1.66-2.14-5.22-3.8-8.11-3.8-2.83 0-6.26 1.62-8.12 3.82a.5.5 0 0 1 -.76-.65c2.05-2.42 5.75-4.17 8.88-4.17 3.19 0 7.05 1.8 8.9 4.19zm2.95-2.33a.5.5 0 0 1 -.71-.02c-2.94-3.07-6.71-4.84-11.14-4.84s-8.2 1.77-11.14 4.85a.5.5 0 0 1 -.72-.69c3.12-3.27 7.14-5.16 11.86-5.16s8.74 1.89 11.86 5.16a.5.5 0 0 1 -.02.71z" fill-rule="evenodd"></path></svg>
+            
+      
+              <div class="included-title"><span>Wireless internet</span>
+           
+            </div>
+
+              <div class="included-description"><span>Wifi you can rely on throughout your stay</span>
+          
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="included-container">
+          <div class="included">
+            <svg class="included-icon" viewBox="0 0 32 32" role="presentation" aria-hidden="true" focusable="false" style="display:block;fill:currentColor"><path d="m22 10.51c0-.83.67-1.51 1.5-1.51s1.5.68 1.5 1.51v4.49h-3zm-.25 5.49h3.5c.41 0 .75-.34.75-.75v-4.75c0-1.38-1.12-2.51-2.5-2.51s-2.5 1.12-2.5 2.51v4.75c0 .41.34.75.75.75zm-4.75 10h-3v-4.49c0-.83.67-1.51 1.5-1.51s1.5.68 1.5 1.51zm-1.5-7c-1.38 0-2.5 1.12-2.5 2.51v4.75c0 .41.34.75.75.75h3.5c.41 0 .75-.34.75-.75v-4.75c0-1.38-1.12-2.51-2.5-2.51zm1.5-4h-3v-4.49c0-.83.67-1.51 1.5-1.51s1.5.68 1.5 1.51zm-1.5-7c-1.38 0-2.5 1.12-2.5 2.51v4.75c0 .41.34.75.75.75h3.5c.41 0 .75-.34.75-.75v-4.75c0-1.38-1.12-2.51-2.5-2.51zm13.5 23h-3v-9.32c0-1.48-1.12-2.68-2.5-2.68s-2.5 1.2-2.5 2.68v9.32h-11v-24.4l9.5-5.45 9.5 5.45zm-27.39-5 1.89-9.05 1.89 9.05zm29.89 5h-1.5v-24.98l-4-2.29v-3.23c0-.28-.22-.5-.5-.5s-.5.22-.5.5v2.66l-5.5-3.15-10.5 6.02v24.98h-5v-4h2c .15 0 .29-.07.39-.18.1-.12.13-.27.1-.42l-2.5-12c-.05-.23-.25-.4-.49-.4s-.44.17-.49.4l-2.5 12c-.03.15.01.3.1.42.1.12.24.18.39.18h2v4h-2.5c-.28 0-.5.22-.5.5s.22.5.5.5h8.5.5 12.5v-10.32c0-.92.67-1.68 1.5-1.68s1.5.75 1.5 1.68v10.32h.5 4.5 1.5c.28 0 .5-.22.5-.5s-.22-.5-.5-.5z"></path></svg>
+            
+         
+              <div class="included-title"><span>Entire homes</span>
+          
+            </div>
+      
+              <div class="included-description"><span>Have the whole place to yourself</span>
+           
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="included-container">
+          <div class="included">
+            <svg class="included-icon" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false" style="display:block;fill:currentColor"><path d="m5.5 5h-.5v8h14v-8zm12.5 7h-12v-6h12zm5.9 6.69-.04-.05-.11-.14-.4-.51-1.2-1.55-1.15-1.47v-10.97a1 1 0 0 0 -.99-1h-16.02c-.55 0-.99.45-.99 1v10.95l-.19.24c-.6.76-1.2 1.53-1.76 2.26l-.16.21c-.29.37-.55.72-.79 1.04l-.1.13v.17c0 1.35.65 2 2 2h20c1.17 0 2-.71 2-2v-.17l-.11-.14zm-19.9-14.69h16.01c-.01 0-.01 7.92-.01 10h-16zm18 16h-20c-.73 0-.96-.2-.99-.85.21-.28.43-.56.66-.87l.16-.21a229.93 229.93 0 0 1 2.33-2.98l.07-.09h15.51l1.6 2.06 1.2 1.55a4708182.18 4708182.18 0 0 1 .42.54c-.05.59-.38.86-.98.86zm-7.52-3.62a.5.5 0 0 0 -.48-.38h-4a .5.5 0 0 0 -.49.38l-.5 2a .5.5 0 0 0 .49.62h5a .5.5 0 0 0 .49-.62l-.5-2zm-4.34 1.62.25-1h3.22l.25 1z" fill-rule="evenodd"></path></svg>
+           
+      
+              <div class="included-title"><span>A laptop-ready workspace</span>
+          
+            </div>
+    
+              <div class="included-description"><span>A comfortable space for you to focus on your work</span>
+        
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="included-container">
+          <div class="included">
+            <svg class="included-icon" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false" style="display:block;fill:currentColor"><path d="m6.5 5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zm0 4a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3zm10.15-4.09a125.01 125.01 0 0 0 -1.43-.45 217.8 217.8 0 0 0 -3.98-1.21c-2.68-.78-4.51-1.23-5.24-1.25-3.43.04-6.01 2.28-6.01 5.5 0 2 .98 3.62 2.53 4.57 0 .02 0 .04.01.06.19.68.31 1.6.39 2.7a40.42 40.42 0 0 1 .05 4.17 2.01 2.01 0 0 0 2.03 2h2.03c1.25 0 1.97-.73 1.97-1.98 0-.07 0-.14 0-.31-.03-1.86.16-3.27.89-4.81a7.75 7.75 0 0 1 1-1.59.5.5 0 0 0 .09-.17 71.83 71.83 0 0 0 1.53-.4 97.27 97.27 0 0 0 4.15-1.24.5.5 0 0 0 .34-.48v-4.65a.5.5 0 0 0 -.35-.48zm-7.67 8.57c-.81 1.71-1.01 3.26-.98 5.25v.29c0 .7-.28.98-.97.98h-2.03c-.6 0-1.03-.48-1.03-.98a41.35 41.35 0 0 0 -.05-4.26 18.74 18.74 0 0 0 -.26-2.15c.71.25 1.5.39 2.33.39.85 0 2.05-.19 3.53-.51-.21.32-.39.65-.55.99zm7.02-6.98v3.17a96.43 96.43 0 0 1 -3.76 1.11 69.77 69.77 0 0 1 -1.72.45c-1.98.49-3.55.76-4.52.76-2.89 0-5-1.85-5-4.5 0-2.63 2.11-4.47 5.01-4.5.59.01 2.41.46 4.97 1.21a216.71 216.71 0 0 1 4.99 1.53l.04.01v.75zm7.92 3.1a1.91 1.91 0 0 1 -.42.46 1.97 1.97 0 0 1 -1.25.44c-.47 0-.8-.15-1.51-.57-.54-.33-.77-.43-.99-.43-.3 0-.55.05-.75.13a.91.91 0 0 0 -.19.09.5.5 0 0 1 -.62-.78c.09-.07.24-.16.44-.24a3.01 3.01 0 0 1 1.12-.2c.47 0 .8.15 1.51.57.54.33.77.43.99.43a.98.98 0 0 0 .63-.22.98.98 0 0 0 .2-.21.5.5 0 0 1 .85.53zm-5.81-2.95a.5.5 0 0 1 .08-.7c.09-.07.24-.16.44-.24a3.01 3.01 0 0 1 1.12-.2c.47 0 .8.15 1.51.57.54.33.77.43.99.43a.98.98 0 0 0 .63-.22.98.98 0 0 0 .2-.21.5.5 0 0 1 .85.53 1.91 1.91 0 0 1 -.42.46 1.97 1.97 0 0 1 -1.25.44c-.47 0-.8-.15-1.51-.57-.54-.33-.77-.43-.99-.43-.3 0-.55.05-.75.13a.91.91 0 0 0 -.19.09.5.5 0 0 1 -.7-.08z" fill-rule="evenodd"></path></svg>
+            
+         
+              <div class="included-title"><span>All the essentials</span>
+             
+            </div>
+       
+              <div class="included-description"><span>Hairdryer, hangers, shampoo, an iron — everything you could need</span>
+             
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-6 col-lg-4">
+        <div class="included-container">
+          <div class="included">
+            <svg class="included-icon" viewBox="0 0 24 24" role="presentation" aria-hidden="true" focusable="false" style="display:block;fill:currentColor"><path d="m15.25 14c .97 0 1.75-.9 1.75-2s-.79-2-1.75-2-1.75.9-1.75 2 .79 2 1.75 2zm0 1c-1.52 0-2.75-1.35-2.75-3s1.23-3 2.75-3 2.75 1.35 2.75 3-1.23 3-2.75 3zm3.31-5.93.23.45.89-.46-.23-.45a9.4 9.4 0 0 0 -4.22-4.11l-.45-.22-.44.9.45.22a8.4 8.4 0 0 1 3.78 3.67zm.89 6.32.23-.45-.89-.46-.23.45a8.4 8.4 0 0 1 -3.78 3.67l-.45.22.44.9.45-.22a9.4 9.4 0 0 0 4.22-4.11zm.61.51c-.92 1.78-2.44 3.26-4.28 4.15l-.45.22.44.9.45-.22a10.51 10.51 0 0 0 4.72-4.59l.23-.44-.89-.46zm2.94-3.9c0-6.07-4.93-11-11-11s-11 4.93-11 11 4.93 11 11 11 11-4.93 11-11zm1 0c0 6.62-5.38 12-12 12s-12-5.38-12-12 5.38-12 12-12 12 5.38 12 12zm-19.44-3.39-.23.45.89.46.23-.45a8.4 8.4 0 0 1 3.78-3.67l.45-.22-.44-.9-.45.22a9.4 9.4 0 0 0 -4.22 4.11zm-.61 7.29-.23-.44-.89.46.23.44a10.51 10.51 0 0 0 4.72 4.59l.45.22.44-.9-.45-.22c-1.84-.9-3.36-2.37-4.28-4.15zm0-7.8c.92-1.78 2.44-3.26 4.28-4.15l.45-.22-.44-.9-.45.22a10.51 10.51 0 0 0 -4.72 4.59l-.23.44.89.46zm1.5 6.83-.23-.45-.89.46.23.45a9.4 9.4 0 0 0 4.22 4.11l.45.22.44-.9-.45-.22a8.4 8.4 0 0 1 -3.78-3.67zm3.4-4.93c.73 0 1.39.47 1.69 1.19l.93-.38c-.45-1.1-1.48-1.81-2.62-1.81-1.57 0-2.85 1.35-2.85 3s1.28 3 2.85 3c1.14 0 2.16-.71 2.62-1.81l-.93-.38c-.3.72-.96 1.19-1.69 1.19-1.02 0-1.85-.9-1.85-2s .83-2 1.85-2zm11.21-1.9.23.44.89-.46-.23-.44a10.51 10.51 0 0 0 -4.72-4.59l-.45-.22-.44.9.45.22c1.84.9 3.36 2.37 4.28 4.15zm1.94 3.9a1 1 0 1 1 -2 0 1 1 0 0 1 2 0z" fill-rule="evenodd"></path></svg>
+          
+          
+              <div class="included-title"><span>Peace of mind</span>
+      
+            </div>
+
+              <div class="included-description"><span>Smoke and carbon monoxide detector for your safety</span>
+          
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
